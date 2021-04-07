@@ -29,5 +29,3 @@ The designs were created to the following widths:
 
 -   Family: [Karla](https://fonts.google.com/specimen/Karla)
 -   Weights: 400, 700
-
-https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub/single-price-grid-component-rKkHRxHWa
